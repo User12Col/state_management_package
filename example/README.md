@@ -1,0 +1,1 @@
+Example Flutter application for package state management.
